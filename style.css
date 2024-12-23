@@ -2,6 +2,7 @@ body {
   margin: -7px;
   font-family: "PT Sans", serif;
   color: white;
+  overflow-x: hidden;
 }
 
 .aot {
